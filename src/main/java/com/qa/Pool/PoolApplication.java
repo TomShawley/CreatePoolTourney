@@ -1,4 +1,4 @@
-package com.qa.Pool.application;
+package com.qa.Pool;
 
 import javax.jms.ConnectionFactory;
 

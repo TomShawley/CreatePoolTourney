@@ -15,7 +15,7 @@ public class SentTourney {
 		this.TourneyId = tourney.getTourneyId();
 		this.TourneyTime = tourney.getTourneyName();
 		this.TourneyDate = tourney.getTourneyDate();
-		this.TourneyId = tourney.getTourneyId();
+		this.TourneyName = tourney.getTourneyName();
 		this.MaxPlayers = tourney.getMaxPlayers();
 	}
 
